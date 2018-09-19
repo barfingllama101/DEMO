@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3A0CB7DA-5C63-39A4-FEF6-CBF485F9E4AE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UIManager.cs">
+    <Files>
+      <File FileName="Assets/overtake.cs" Line="6" Column="41" />
+      <File FileName="Assets/Character.cs" Line="17" Column="35" />
+      <File FileName="Assets/Move.cs" Line="12" Column="39" />
+      <File FileName="Assets/Ghost.cs" Line="6" Column="5" />
+      <File FileName="Assets/Liam.cs" Line="5" Column="25" />
+      <File FileName="Assets/Bat.cs" Line="9" Column="6" />
+      <File FileName="Assets/GhostCostume.cs" Line="16" Column="1" />
+      <File FileName="Assets/Pizza.cs" Line="7" Column="20" />
+      <File FileName="Assets/CameraBehavior.cs" Line="10" Column="17" />
+      <File FileName="Assets/GhostStates.cs" Line="8" Column="1" />
+      <File FileName="Assets/HitCollider.cs" Line="19" Column="37" />
+      <File FileName="Assets/UIManager.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DEMO PreferredExecutionTarget="Unity.Editor" />
+</Properties>
